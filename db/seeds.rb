@@ -36,7 +36,7 @@ Plant.create!([
     name: 'Fiddle Leaf Fig',
     image: './images/fiddle-leaf-fig.jpg',
     price: 55
-  }
+  },
 ])
 
 puts '✅ Done seeding!'
