@@ -1,5 +1,6 @@
 puts '🌱 Seeding plants...'
 
+
 Plant.create!([
   {
     name: 'Aloe',
@@ -38,5 +39,6 @@ Plant.create!([
     price: 55
   },
 ])
+
 
 puts '✅ Done seeding!'
